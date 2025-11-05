@@ -1,0 +1,13 @@
+body {
+  font-family: system-ui, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: #f9f9fb;
+  color: #222;
+}
+h1 {
+  color: #007aff;
+}
